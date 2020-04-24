@@ -1,0 +1,24 @@
+{
+    "name": "kassio-online/kassio-php-sdk",
+    "type": "library",
+    "description": "Kassio.Online PHP SDK",
+    "keywords": ["kassio"],
+    "homepage": "https://github.com/kassio-online/kassio-php-sdk",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Vitaliy Eremenko",
+            "email": "root@kassio.online",
+            "homepage": "https://kassio.online",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kassio-Online": "src"
+        }
+    }
+}
