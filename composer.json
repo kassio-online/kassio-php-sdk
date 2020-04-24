@@ -4,7 +4,7 @@
     "description": "Kassio.Online PHP SDK",
     "keywords": ["kassio"],
     "homepage": "https://github.com/kassio-online/kassio-php-sdk",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Vitaliy Eremenko",
